@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnetWebApiCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a376b0bfec699e185f55af99a532431afe4fb2ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnetWebApiCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnetWebApiCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
